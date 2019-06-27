@@ -1,0 +1,60 @@
+#######################################
+# Syntax Coloring Map: CS_display_board
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CS_display_board	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin KEYWORD2
+display_host_process KEYWORD2
+set_DPs	KEYWORD2
+test_all_chars	KEYWORD2
+scroll_logo	KEYWORD2
+display_shift	KEYWORD2
+set_displays	KEYWORD2
+run_test	KEYWORD2
+
+#######################################
+# Structures (KEYWORD3)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+logo_length	LITERAL1
+printable_length	LITERAL1
+
+LED_driver_address	LITERAL1
+LED_driver1_address	LITERAL1
+LED_driver2_address	LITERAL1
+LED_driver3_address	LITERAL1
+LED_driver4_address	LITERAL1
+LED_driver5_address	LITERAL1
+LED_driver_dp_address	LITERAL1
+
+display_state_time	LITERAL1
+display_state_timer	LITERAL1
+display_state_text	LITERAL1
+display_state_test_time	LITERAL1
+display_state_test_timer	LITERAL1
+display_state_test_text	LITERAL1
+display_state_test_serial	LITERAL1
+display_state_test_gen	LITERAL1
+
+LED_driver_Enable	LITERAL1
+
+LED_driver_LED_count	LITERAL1
+LED_display_count	LITERAL1
+LED_driver_Max	LITERAL1
+#######################################
+# ? (LITERAL2)
+#######################################
